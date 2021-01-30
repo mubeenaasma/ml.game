@@ -1,2 +1,2 @@
-# snake.ml
-CREATING A SNAKE GAME USING TEACHABLE MACHINE
+# snake_game_ml
+play snake game with your audio
